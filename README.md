@@ -29,6 +29,10 @@ Next up is the front and middle sections of scaredy cat. First of all put the di
 # BOM
 |name|description|price (for units)|Link|
 |----|-----------|----------------|------|
+|Microbit V2| A BBC Microbit V2| $ 6.45 (after tax)|https://nl.aliexpress.com/item/1005007470248064.html?pdp_npi=6%40dis%21EUR%215.62%211.80%21%21%2142.64%2113.64%21%40210152bd17819748977125334e1121%2112000040896298651%21affd%21%21%21%211%210%21&dp=CjwKCAjw9NjRBhATEiwA_p2J8Xh6WZwRcxxEfUnc5VWsoVIDvVJGWlRVSv8nMqQqzWMYimYcl1dutxoCTw4QAvD_BwE&cn=nlcluster&gad_source=1&gad_campaignid=22785620612&gbraid=0AAAAADihhqX8ySTauwRgni8OKGdHudEYT&gclid=CjwKCAjw9NjRBhATEiwA_p2J8Xh6WZwRcxxEfUnc5VWsoVIDvVJGWlRVSv8nMqQqzWMYimYcl1dutxoCTw4QAvD_BwE&aff_fcid=597aa878b6ee4c679be5a249f945e7dc-1782008874614-04027-_oEmQFg2&aff_fsk=_oEmQFg2&aff_platform=api-new-product-query&sk=_oEmQFg2&aff_trace_key=597aa878b6ee4c679be5a249f945e7dc-1782008874614-04027-_oEmQFg2&terminal_id=ffcfbaa5762d42198e2ab7016699e974&afSmartRedirect=y|
+|ER_OLEDM0.91_1x-I2C| ssd1306 OLED display 32*128 0.91 inch| $ 4,24 (after tax)|https://nl.aliexpress.com/item/1005006782987637.html?src=google&src=google&albch=shopping&acnt=494-037-6276&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=nl1005006782987637&ds_e_product_merchant_id=5762056048&ds_e_product_country=NL&ds_e_product_language=nl&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=19213834753&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=17347463210&gbraid=0AAAAADznYb_UCRhPgM0kpv_taXeB_1UrA&gclid=CjwKCAjw9NjRBhATEiwA_p2J8SLELJ-GnFUkK783OCQHPe7IbFU34cyp3ij3iESXIwvzLFAdZyFedBoCdBwQAvD_BwE|
+|Kitronic 5601B|BBC Micro:Bit Edge Connector Breakout Board| $3,38 (after tax)|https://www.sossolutions.nl/edge-connector-breakout-board-voor-bbc-micro-bit-kit?gad_source=1&gad_campaignid=17427468956&gbraid=0AAAAADkUwAWidxhgnEWcLnCvKilSuYwfB&gclid=CjwKCAjw9NjRBhATEiwA_p2J8eGiMncLqHLumHqC9wbWZzyZ4XnbLl_8MYP_bzrW61ABCLi50wZUaxoCdqsQAvD_BwE|
+
 
 
 
