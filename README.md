@@ -16,5 +16,18 @@ To assemble the Scaredy pants you will need to make the wiring and the shell. Th
 -Wiring: To start you will need to solder on two headers onto the Kitronic Edge Connector Breakout Board on the pins 19&20. These are the SCL and SDA pins for the I2C connection to the microbit. After Soldering on said two pins, connect the Microbit to the Breakout board using the Edge connector. Next you will grab the ssd1306 32*128 display and using dupont cables, you wil connect the GND pin on the display to the 0V on the kitronic breakout board. Then connect the VCC pin on the display to the 3V pin on the breakout board. Then connect the SCL pin on the display to the newly soldered pin 19 on the breakout board. And lastly connect the SDA pin on the display to the second soldered pin, pin 20 on the breakout board. You now have the full wiring complete, it should look something like this:
 <img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/1940559a-a15d-4510-b3d9-c7ba3aa3b596" />
 <img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/e45c6261-2fbb-44f3-9319-487a4a172c30" />
+<img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/595180a2-32a8-40dc-be80-e4137b3cc378" />
+
+-Building Scaredy pants lite: Scaredy pants light consists of two components so assembly isnt as complicated as with scaredy cat. First of all print out both parts ,the bottom piece will come with lots of support struction so make sure to clean up the bottom piece. Add all the electronic gubbins and as said earlier, make sure to put the display through the hole and then spush the halves together. After that is done grab a nut and bolt(4.8mm) and put the bolt through the holes on top of both parts, then secure the bolt ith the corresponding nut do make sure eveything stays secure. 
+
+-Building Scaredy Cat: To start off print all three components for Scaredy Cat, the backpack component will also need to be cleared of any suport structure after printing. Then start with using a hot glue gun to glue the back pack and middlepart together where the hole on the middle piece is. Then gently place in the electronics.
+<img width="883" height="698" alt="image" src="https://github.com/user-attachments/assets/2b5babd3-4cad-480d-a1d9-31b0a9a307af" />
+
+
+Next up is the front and middle sections of scaredy cat. First of all put the display through the face hole as done last time and after that start lining up the layers. You will notice the holes that line up between the two layers. Those holes are where we again use a nut and bolt system to keep everything together, but this one requires 4 nuts and 4 bolts(25mm). Put one of each in each hole and secure them tightly so everything stays solid. Now you have a complete Scaredy Cat!
+
+# BOM
+|name|description|price (for units)|Link|
+
 
 
