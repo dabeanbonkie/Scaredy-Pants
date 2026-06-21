@@ -28,6 +28,7 @@ Next up is the front and middle sections of scaredy cat. First of all put the di
 
 # BOM
 |name|description|price (for units)|Link|
+|----|-----------|----------------|------|
 
 
 
