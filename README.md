@@ -17,6 +17,9 @@ To assemble the Scaredy pants you will need to make the wiring and the shell. Th
 <img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/1940559a-a15d-4510-b3d9-c7ba3aa3b596" />
 <img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/e45c6261-2fbb-44f3-9319-487a4a172c30" />
 <img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/595180a2-32a8-40dc-be80-e4137b3cc378" />
+heres the wiring in kicad:
+<img width="610" height="611" alt="image" src="https://github.com/user-attachments/assets/ef7cf460-dd01-4c0f-a92f-7456d9355a56" />
+
 
 -Building Scaredy pants lite: Scaredy pants light consists of two components so assembly isnt as complicated as with scaredy cat. First of all print out both parts ,the bottom piece will come with lots of support struction so make sure to clean up the bottom piece. Add all the electronic gubbins and as said earlier, make sure to put the display through the hole and then spush the halves together. After that is done grab a nut and bolt(4.8mm) and put the bolt through the holes on top of both parts, then secure the bolt ith the corresponding nut do make sure eveything stays secure. 
 
