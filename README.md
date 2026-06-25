@@ -22,9 +22,12 @@ heres the wiring in kicad:
 
 
 -Building Scaredy pants lite: Scaredy pants light consists of two components so assembly isnt as complicated as with scaredy cat. First of all print out both parts ,the bottom piece will come with lots of support struction so make sure to clean up the bottom piece. Add all the electronic gubbins and as said earlier, make sure to put the display through the hole and then spush the halves together. After that is done grab a nut and bolt(4.8mm) and put the bolt through the holes on top of both parts, then secure the bolt ith the corresponding nut do make sure eveything stays secure. 
+Here is the onshape link for the 3D-Models:
+https://cad.onshape.com/documents/d5f36c360309d0da1d068bf0/w/6ce9dd0b48870b7baf7f1960/e/e9c37b9101531aa43c0be3fa 
 
 -Building Scaredy Cat: To start off print all three components for Scaredy Cat, the backpack component will also need to be cleared of any suport structure after printing. Then start with using a hot glue gun to glue the back pack and middlepart together where the hole on the middle piece is. Then gently place in the electronics.
 <img width="883" height="698" alt="image" src="https://github.com/user-attachments/assets/2b5babd3-4cad-480d-a1d9-31b0a9a307af" />
+Here is the onshape links for the 3D-Models: https://cad.onshape.com/documents/16606e79f902fc667de6f470/w/4e756a9daed502361049022d/e/c285e2ff7c10394a9b17194a https://cad.onshape.com/documents/22ab5850517fe45a945864af/w/b4afa80b39f69592a3dc5f3d/e/4521a73d3c30c847e517c37a
 
 
 Next up is the front and middle sections of scaredy cat. First of all put the display through the face hole as done last time and after that start lining up the layers. You will notice the holes that line up between the two layers. Those holes are where we again use a nut and bolt system to keep everything together, but this one requires 4 nuts and 4 bolts(25mm). Put one of each in each hole and secure them tightly so everything stays solid. Now you have a complete Scaredy Cat!
