@@ -1,5 +1,5 @@
 # Scaredy Pants Showcase
-<img width="1410" height="2000" alt="Image" src="https://github.com/user-attachments/assets/2503d0c0-5f22-43a9-9bb5-f7e7b7eacbaa" />
+
 
 # Description
 Scaredy pants is a pretty simple thing, it detects that its falling then it plays a recording of whatever sound you recorded on the microbit while showing on the fancy OLED display thats it has sadly fallen or you could show a sad face but i decided to keep it simple with a simple "ive fallen!" message. It can also let other microbit devices know it has fallen via radio which you could use to check if it has well, fallen.
