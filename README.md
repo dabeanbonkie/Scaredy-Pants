@@ -18,7 +18,9 @@ To assemble the Scaredy pants you will need to make the wiring and the shell. Th
 <img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/1940559a-a15d-4510-b3d9-c7ba3aa3b596" />
 <img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/e45c6261-2fbb-44f3-9319-487a4a172c30" />
 <img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/595180a2-32a8-40dc-be80-e4137b3cc378" />
+
 heres the wiring in kicad:
+
 <img width="610" height="611" alt="image" src="https://github.com/user-attachments/assets/ef7cf460-dd01-4c0f-a92f-7456d9355a56" />
 
 
