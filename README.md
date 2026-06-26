@@ -1,4 +1,5 @@
 # Scaredy Pants Showcase
+<img width="1410" height="2000" alt="image" src="https://github.com/user-attachments/assets/5d3b670a-7326-4c52-8bfe-4d37d82e8117" />
 
 
 # Description
