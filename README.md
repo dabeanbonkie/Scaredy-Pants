@@ -28,8 +28,7 @@ https://cad.onshape.com/documents/d5f36c360309d0da1d068bf0/w/6ce9dd0b48870b7baf7
 
 -Building Scaredy Cat: To start off print all three components for Scaredy Cat, the backpack component will also need to be cleared of any suport structure after printing. Then start with using a hot glue gun to glue the back pack and middlepart together where the hole on the middle piece is. Then gently place in the electronics.
 <img width="883" height="698" alt="image" src="https://github.com/user-attachments/assets/2b5babd3-4cad-480d-a1d9-31b0a9a307af" />
-Here is the onshape links for the 3D-Models: https://cad.onshape.com/documents/16606e79f902fc667de6f470/w/4e756a9daed502361049022d/e/c285e2ff7c10394a9b17194a https://cad.onshape.com/documents/22ab5850517fe45a945864af/w/b4afa80b39f69592a3dc5f3d/e/4521a73d3c30c847e517c37a
-
+Here is the onshape link for the 3D-Model: https://cad.onshape.com/documents/b33d1e847af0a325c1287f84/w/a84f56205b5ac41fa4d9dd5c/e/b5231eaac5cd1a74e6beaa8e?renderMode=0&uiState=6a3de510d5b17c5ecd27e5c1
 
 Next up is the front and middle sections of scaredy cat. First of all put the display through the face hole as done last time and after that start lining up the layers. You will notice the holes that line up between the two layers. Those holes are where we again use a nut and bolt system to keep everything together, but this one requires 4 nuts and 4 bolts(25mm). Put one of each in each hole and secure them tightly so everything stays solid. Now you have a complete Scaredy Cat!
 
